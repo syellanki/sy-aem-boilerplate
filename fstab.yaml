@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-syellanki.adobeaemcloud.com/bin/franklin.deliver/syellanki/sy-aem-boilerplate/main"
+    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/syellanki/sy-aem-boilerplate/main"
     type: "markup"
     suffix: ".html"
